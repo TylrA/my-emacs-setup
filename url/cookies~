@@ -1,0 +1,14 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '(("n36.network-auth.com"
+  [url-cookie "p_splash_session" "MO-sTQsxpNoyDYPbn0J0Bk1VBFmttDX-uMk7FcGzZ62AdrrOLySw9SXDYvjWi_1ExOzdGft8VSLwoBMjd9QZf6AklZx6OTb2X14FyEshBPg8f5Ew8S32qJl1Jz11MYL6lSjsyCvWSGxNTOgc08Vd7hghVK6URLS_lIWe8DoLhMef6tTjIZSDl8oQTHrsKabY6fk5uP99WUN_mEujyXzz7YC6l9hGAgHUqlvl0JUv0wAI8fJjiVauJxma3l69UXuekn1PHj41YIHNDBTC2zfNSimniJyqMx8lt0KLlhcpTYShjUMa-a57bQ2k1kv7xxydn-nxkQxdkEOZ_CY-iOYxkBDC6uVNTjTTqNQU9xb0Bl8lswND4nou8iO82iEZiJD1nJKddwLepBH7h9FX3b1QMaAiOZwo2hOlykbE_xTKkC71aoOt6tL2H9_Eittjw2FwKFlx8166w2Pw19zexF70Vfxe_FwJwB0iOtCdo5VjNKc9yw6qHQXUrr9SyhReleKZv7FX-FlRO9tzrCi3Pc7oqfopgtGTu3usU-eFmQdtIP5JDWPd_hxrmdyVavo9Ypb3CpV0Liee0qZvQJ0AEIi0TzRH3rn1ijkgdLElWFEuMOnkpNCqY0BLL2NTyxxpuNBld6yEvKiTmcdMgB82zCljyr9hVEVh9LMx9uKRUjsa7lNMW36BLUiAmWv1mPbJCALrHmuVA" "11-Nov-2019 00:03:26.00 GMT" "/" "n36.network-auth.com" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:

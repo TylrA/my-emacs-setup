@@ -1,0 +1,4 @@
+If irony crashes/stops working, you can maybe fix the problem by running irony-restart-process.
+
+To get irony to recognize compile options, make a CMakeLists.txt file and a build directory, then run the following from the build directory:
+cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=ON ..
